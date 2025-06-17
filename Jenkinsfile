@@ -1,4 +1,4 @@
-@libraray{“Shared”} _
+@libraray {“Shared”} _
 pipeline {
     agent { label "dev" }
 
